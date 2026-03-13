@@ -59,7 +59,7 @@ Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/javascript-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/javascript-original.svg](https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png)" 
 />
 <img 
     align="left" 
