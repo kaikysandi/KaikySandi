@@ -55,6 +55,14 @@ Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
