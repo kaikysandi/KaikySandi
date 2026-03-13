@@ -1,7 +1,23 @@
 ## Olá! Eu sou o Kaiky Sandi
 **`Desenvolvedor FullStack`**
 
-Me chamo Kaiky Almeida Sandi, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia 
+Olá! Sou Kaiky Sandi, estudante de Análise e Desenvolvimento de Sistemas, com cerca de 1 ano e meio de experiência na área de Tecnologia da Informação, atuando com redes de computadores, NOC e suporte técnico.
+
+Tenho experiência com monitoramento de redes e sistemas, atendimento e suporte a usuários, análise e resolução de incidentes, além de conhecimentos em infraestrutura de TI. Também possuo familiaridade com desenvolvimento web utilizando HTML, CSS e JavaScript, aplicando conceitos de lógica de programação e boas práticas de desenvolvimento.
+
+Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada em resolver problemas de forma eficiente. Busco constantemente evoluir profissionalmente e contribuir com soluções que agreguem valor aos projetos e às equipes em que atuo.
+
+### 🚀 Áreas de interesse
+- Infraestrutura e Redes de Computadores  
+- Monitoramento de Sistemas (NOC)  
+- Suporte Técnico e Service Desk  
+- Automação e desenvolvimento web  
+
+### 🛠️ Tecnologias e ferramentas
+- Redes de computadores  
+- HTML, CSS e JavaScript  
+- Lógica de programação  
+- Git e GitHub 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
