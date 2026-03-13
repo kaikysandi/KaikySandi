@@ -14,7 +14,7 @@ Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada
 - Git e GitHub 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="www.linkedin.com/in/kaikysandi">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
