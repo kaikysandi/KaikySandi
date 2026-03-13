@@ -9,7 +9,7 @@ Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada
 
 ### 🛠️ Tecnologias e ferramentas
 - Redes de computadores  
-- HTML, CSS e JavaScript  
+- HTML, CSS, Java e JavaScript  
 - Lógica de programação  
 - Git e GitHub 
 
