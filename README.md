@@ -59,7 +59,7 @@ Sou uma pessoa proativa, com facilidade para aprender novas tecnologias e focada
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />" 
 />
 <img 
     align="left" 
